@@ -33,9 +33,9 @@ In order to run the tests, please observe the steps above:
 In order to maximize the testing coverage, it were used the All-pairs, Boundary Analysis value and Cause-effect methods. 
 	
 ## Built With
-Selenium - Web framework
-Maven - Dependency Management
-JUnit - Java Framework
+- Selenium - Web framework
+- Maven - Dependency Management
+- JUnit - Java Framework
 
 ## Authors
 Maria I. F. Carneiro - mariaifc19@gmail.com
